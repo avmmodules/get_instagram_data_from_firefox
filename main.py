@@ -1,6 +1,6 @@
 '''
-    Description: Get cookies to authenticate in instaloader
-    Author: AlejandroV
+    Description: Get cookies to authenticate in instaloader.
+    Author: aulerjbailey
     Video: https://youtu.be/M7CU1eX6KVI
 '''
 from argparse import ArgumentParser
